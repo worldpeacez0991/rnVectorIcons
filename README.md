@@ -4,13 +4,13 @@
 
 ## Installation
 Files edited:
-1. android\app\build.gradle\n
-:169 implementation project(':react-native-vector-icons')\n
+1. android\app\build.gradle  
+:169 implementation project(':react-native-vector-icons')  
 :174 apply from: "../../node_modules/react-native-vector-icons/fonts.gradle"
 
-2. android\settings.gradle\n
-:5 include ':react-native-vector-icons'\n
-:6 project(':react-native-vector-icons').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-vector-icons/android')\n
+2. android\settings.gradle  
+:5 include ':react-native-vector-icons'  
+:6 project(':react-native-vector-icons').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-vector-icons/android')  
 
 3. App.tsx
 
