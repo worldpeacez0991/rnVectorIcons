@@ -1,4 +1,4 @@
-### React Native Drawer Navigation Example
+### React Native Icons Example
 ![Icon_demo1](Icon_demo1.jpg)
 
 
