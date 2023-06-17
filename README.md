@@ -20,7 +20,7 @@ Files edited:
 
 ## License
 
-Library 'react-native-vector-icons' is licensed under [The MIT License](LICENSE).
+Library 'react-native-vector-icons' is licensed under [The MIT License](https://mit-license.org/). 
 
 ## Credits
 Regarding main project 'react-native-vector-icons', please refer to 'https://github.com/oblador/react-native-vector-icons'
